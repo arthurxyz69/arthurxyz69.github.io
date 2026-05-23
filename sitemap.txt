@@ -1,1 +1,1 @@
-﻿http://iyazero.tw/Default.htm
+﻿./Default.htm
